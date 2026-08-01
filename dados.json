@@ -38,7 +38,8 @@
       "metricPreset": "",
       "board": "Quadro 1",
       "scheduled": "2026-08-02",
-      "postado": false
+      "postado": true,
+      "obs": ""
     }
   ],
   "metricPresets": [],
