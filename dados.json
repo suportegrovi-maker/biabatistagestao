@@ -27,7 +27,10 @@
       "funcionou": "",
       "linkPronto": "",
       "metrics": [],
-      "metricPreset": ""
+      "metricPreset": "",
+      "board": "Quadro 1",
+      "scheduled": "2026-08-02",
+      "postado": false
     }
   ],
   "metricPresets": [],
@@ -132,5 +135,9 @@
     "notifsOn": true,
     "soundOn": false,
     "notifIntervalMin": 15
-  }
+  },
+  "boards": [
+    "Quadro 1",
+    "Quadro 2"
+  ]
 }
