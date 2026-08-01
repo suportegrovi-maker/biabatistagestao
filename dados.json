@@ -1,1 +1,136 @@
-{"items":[],"metricPresets":[],"goals":{},"refs":[],"settings":{}}
+{
+  "items": [
+    {
+      "id": "msajcjpb7bmu1",
+      "createdAt": "2026-08-01T15:37:55.391Z",
+      "lastMoved": "2026-08-01T15:37:55.391Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-01T15:37:55.391Z"
+        }
+      ],
+      "title": "bkjekjce",
+      "stage": "ideias",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "reference": "",
+      "tema": "",
+      "roteiro": "",
+      "dateGravacao": "",
+      "prazoEdicao": "",
+      "prazoRevisao": "",
+      "legendas": "",
+      "hashtags": "",
+      "datePost": "",
+      "linkPost": "",
+      "funcionou": "",
+      "linkPronto": "",
+      "metrics": [],
+      "metricPreset": ""
+    }
+  ],
+  "metricPresets": [],
+  "goals": {
+    "2026-08": {
+      "productivity": [
+        {
+          "id": "msajbefzcwzh8",
+          "name": "Ideias captadas",
+          "auto": "ideias",
+          "target": 30
+        },
+        {
+          "id": "msajbefzm9nxp",
+          "name": "Prontos p/ gravar",
+          "auto": "gravar",
+          "target": 20
+        },
+        {
+          "id": "msajbefzxwixl",
+          "name": "Produzidos",
+          "auto": "gravado",
+          "target": 15
+        },
+        {
+          "id": "msajbefzx2hou",
+          "name": "Postados",
+          "auto": "postado",
+          "target": 12
+        }
+      ],
+      "growth": [
+        {
+          "id": "msajbefzdmzy5",
+          "name": "Curtidas",
+          "target": 5000,
+          "manual": null
+        },
+        {
+          "id": "msajbefz5crot",
+          "name": "Comentários",
+          "target": 300,
+          "manual": null
+        },
+        {
+          "id": "msajbefzthu1i",
+          "name": "Compartilhamentos",
+          "target": 200,
+          "manual": null
+        },
+        {
+          "id": "msajbefzj6i7u",
+          "name": "Salvos",
+          "target": 400,
+          "manual": null
+        },
+        {
+          "id": "msajbefzrv032",
+          "name": "Alcance",
+          "target": 50000,
+          "manual": null
+        },
+        {
+          "id": "msajbefzqfe6a",
+          "name": "Visualizações",
+          "target": 80000,
+          "manual": null
+        }
+      ],
+      "sales": [
+        {
+          "id": "msajbefzqso15",
+          "name": "Leads gerados",
+          "target": 50,
+          "value": 0
+        },
+        {
+          "id": "msajbefzuzawj",
+          "name": "Reuniões realizadas",
+          "target": 15,
+          "value": 0
+        },
+        {
+          "id": "msajbefzo79el",
+          "name": "Vendas fechadas",
+          "target": 5,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "refs": [],
+  "settings": {
+    "thresholds": {
+      "ideias": 2,
+      "gravar": 2,
+      "gravado": 2,
+      "revisar": 2,
+      "postar": 2,
+      "postado": 0
+    },
+    "notifsOn": true,
+    "soundOn": false,
+    "notifIntervalMin": 15
+  }
+}
