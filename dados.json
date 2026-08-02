@@ -1,47 +1,6 @@
 {
   "items": [
     {
-      "id": "msajcjpb7bmu1",
-      "createdAt": "2026-08-01T15:37:55.391Z",
-      "lastMoved": "2026-08-01T17:42:16.358Z",
-      "stageHistory": [
-        {
-          "stage": "ideias",
-          "at": "2026-08-01T15:37:55.391Z"
-        },
-        {
-          "stage": "gravar",
-          "at": "2026-08-01T17:42:06.061Z"
-        },
-        {
-          "stage": "ideias",
-          "at": "2026-08-01T17:42:16.358Z"
-        }
-      ],
-      "title": "bkjekjce",
-      "stage": "ideias",
-      "tipo": "Estático",
-      "platform": "Instagram",
-      "reference": "",
-      "tema": "",
-      "roteiro": "",
-      "dateGravacao": "2026-08-02",
-      "prazoEdicao": "2026-08-02",
-      "prazoRevisao": "2026-08-02",
-      "legendas": "",
-      "hashtags": "",
-      "datePost": "2026-08-03",
-      "linkPost": "",
-      "funcionou": "",
-      "linkPronto": "",
-      "metrics": [],
-      "metricPreset": "",
-      "board": "Quadro 1",
-      "scheduled": "2026-08-02",
-      "postado": true,
-      "obs": ""
-    },
-    {
       "id": "msaou62oy6krm",
       "createdAt": "2026-08-01T18:11:35.616Z",
       "lastMoved": "2026-08-01T18:11:35.616Z",
