@@ -1,29 +1,5 @@
 {
-  "items": [
-    {
-      "id": "msaouuqr73k33",
-      "createdAt": "2026-08-01T18:12:07.587Z",
-      "lastMoved": "2026-08-01T18:12:07.587Z",
-      "stageHistory": [
-        {
-          "stage": "ideias",
-          "at": "2026-08-01T18:12:07.587Z"
-        }
-      ],
-      "title": "uvujh",
-      "tipo": "Reels",
-      "platform": "TikTok",
-      "board": "Quadro 2",
-      "stage": "ideias",
-      "reference": "",
-      "tema": "",
-      "roteiro": "",
-      "obs": "",
-      "scheduled": "2026-08-02",
-      "datePost": "",
-      "postado": false
-    }
-  ],
+  "items": [],
   "metricPresets": [],
   "goals": {
     "2026-08": {
