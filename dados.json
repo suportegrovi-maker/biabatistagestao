@@ -45,6 +45,29 @@
       "scheduled": "",
       "datePost": "",
       "postado": false
+    },
+    {
+      "id": "msb5676thihhg",
+      "createdAt": "2026-08-02T01:48:50.789Z",
+      "lastMoved": "2026-08-02T01:48:50.789Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-02T01:48:50.789Z"
+        }
+      ],
+      "title": "Todo prematuro é preguiçoso!",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "board": "Polêmica",
+      "stage": "ideias",
+      "reference": "",
+      "tema": "É necessário ensinar a criança andar?",
+      "roteiro": "[HOOK]\nTodo prematuro é preguiçoso!\n\n[TAKE 2]\nFoi isso que me disseram\n\n[TAKE 3]\nDesenvolva o conteúdo\n\n[CTA]\nEnvie esse vídeo para uma família com recém-nascido",
+      "obs": "",
+      "scheduled": "",
+      "datePost": "",
+      "postado": false
     }
   ],
   "metricPresets": [],
