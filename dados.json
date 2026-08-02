@@ -104,6 +104,7 @@
     "notifIntervalMin": 15
   },
   "boards": [
+    "Quadro 1",
     "Quadro 2"
   ]
 }
