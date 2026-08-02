@@ -1,5 +1,29 @@
 {
-  "items": [],
+  "items": [
+    {
+      "id": "msb52agbmw84q",
+      "createdAt": "2026-08-02T01:45:48.395Z",
+      "lastMoved": "2026-08-02T01:45:48.395Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-02T01:45:48.395Z"
+        }
+      ],
+      "title": "É necessário ensinar meu filho prematuro andar?",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "board": "Tia Bia Responde",
+      "stage": "ideias",
+      "reference": "",
+      "tema": "É necessário ensinar a criança andar?",
+      "roteiro": "[Hook]\nÉ necessário ensinar meu filho prematuro andar?\n---\n[Take 2]\nSeja bem vindo a quadro tia bia responde, aonde eu respondo dúvidas sobre x coisa\n\n[Take 3]\nDesenvolva o tema\n\n[CTA]\ndeixe aqui sua dúvida e siga a fisiobiabatista para mais",
+      "obs": "",
+      "scheduled": "",
+      "datePost": "",
+      "postado": false
+    }
+  ],
   "metricPresets": [],
   "goals": {
     "2026-08": {
