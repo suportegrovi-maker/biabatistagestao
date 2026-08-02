@@ -1,29 +1,6 @@
 {
   "items": [
     {
-      "id": "msaou62oy6krm",
-      "createdAt": "2026-08-01T18:11:35.616Z",
-      "lastMoved": "2026-08-01T18:11:35.616Z",
-      "stageHistory": [
-        {
-          "stage": "ideias",
-          "at": "2026-08-01T18:11:35.616Z"
-        }
-      ],
-      "title": "ucdbuisc",
-      "tipo": "Vídeo longo",
-      "platform": "YouTube",
-      "board": "Quadro 1",
-      "stage": "ideias",
-      "reference": "",
-      "tema": "",
-      "roteiro": "",
-      "obs": "",
-      "scheduled": "2026-08-02",
-      "datePost": "",
-      "postado": false
-    },
-    {
       "id": "msaouuqr73k33",
       "createdAt": "2026-08-01T18:12:07.587Z",
       "lastMoved": "2026-08-01T18:12:07.587Z",
