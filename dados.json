@@ -137,6 +137,29 @@
       "scheduled": "",
       "datePost": "",
       "postado": false
+    },
+    {
+      "id": "msb5hcwo3kv1m",
+      "createdAt": "2026-08-02T01:57:31.416Z",
+      "lastMoved": "2026-08-02T01:57:31.416Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-02T01:57:31.416Z"
+        }
+      ],
+      "title": "Teve uma vez que vi um conteúdo que a mãe perguntou o que eu devo fazer para o meu bebe prematuro começar andar",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "board": "Histórias do dia a dia",
+      "stage": "ideias",
+      "reference": "",
+      "tema": "É necessário ensinar a criança andar?",
+      "roteiro": "[HOOK]\nTeve uma vez que vi um conteúdo que a mãe perguntou o que eu devo fazer para o meu bebe prematuro começar andar\n\n[TAKE 1]\nDesenvolva o conteúdo\n\n[CTA]\nSe gostou do conteúdo curta e me siga para mais",
+      "obs": "",
+      "scheduled": "",
+      "datePost": "",
+      "postado": false
     }
   ],
   "metricPresets": [],
