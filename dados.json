@@ -164,7 +164,7 @@
     {
       "id": "msdymfr6f8x2b",
       "createdAt": "2026-08-04T01:08:49.602Z",
-      "lastMoved": "2026-08-04T20:08:50.563Z",
+      "lastMoved": "2026-08-04T23:43:02.075Z",
       "stageHistory": [
         {
           "stage": "ideias",
@@ -173,13 +173,17 @@
         {
           "stage": "revisar",
           "at": "2026-08-04T20:08:50.562Z"
+        },
+        {
+          "stage": "postar",
+          "at": "2026-08-04T23:43:02.075Z"
         }
       ],
       "title": "Agosto Verde (Primeira infância)",
       "tipo": "Reels",
       "platform": "Instagram",
       "board": "Você sabia?",
-      "stage": "revisar",
+      "stage": "postar",
       "reference": "",
       "tema": "",
       "roteiro": "[Hook]\nVocê sabe o porque do agosto verde? ou Você sabia que agosto é o mês da primeira infânca\n---\n[Take 2]\nSeja bem vindo a quadro desvendando com a Tia Bia, aonde eu falo sobre curiosidades \n\n[Take 3]\nDesenvolva o tema\n\n[CTA]\ndeixe aqui o que achou dessa curisidade e siga a fisiobiabatista para mais",
