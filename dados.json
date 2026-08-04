@@ -160,6 +160,29 @@
       "scheduled": "",
       "datePost": "",
       "postado": false
+    },
+    {
+      "id": "msdymfr6f8x2b",
+      "createdAt": "2026-08-04T01:08:49.602Z",
+      "lastMoved": "2026-08-04T01:08:49.602Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-04T01:08:49.602Z"
+        }
+      ],
+      "title": "Agosto Verde (Primeira infância)",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "board": "Tia Bia Responde",
+      "stage": "ideias",
+      "reference": "",
+      "tema": "",
+      "roteiro": "",
+      "obs": "",
+      "scheduled": "",
+      "datePost": "",
+      "postado": false
     }
   ],
   "metricPresets": [],
