@@ -76,25 +76,29 @@
     {
       "id": "msb5c3bpl7l14",
       "createdAt": "2026-08-02T01:53:25.717Z",
-      "lastMoved": "2026-08-02T01:53:25.717Z",
+      "lastMoved": "2026-08-10T23:45:32.795Z",
       "stageHistory": [
         {
           "stage": "ideias",
           "at": "2026-08-02T01:53:25.717Z"
+        },
+        {
+          "stage": "postado",
+          "at": "2026-08-10T23:45:32.795Z"
         }
       ],
       "title": "Se você quer que o seu prematuro ande corretamente não faça isso! Faça isso.",
       "tipo": "Reels",
       "platform": "Instagram",
       "board": "Não faça isso x Faça isso",
-      "stage": "ideias",
+      "stage": "postado",
       "reference": "",
       "tema": "É necessário ensinar a criança andar?",
       "roteiro": "[HOOK]\nSe você quer que o seu prematuro ande corretamente não faça isso! \n\n[TAKE 1]\nFaça isso (mostre o que fazer e o porque)\n\n[CTA]\nSiga a fisiobiabatista para mais dicas",
       "obs": "",
       "scheduled": "",
       "datePost": "",
-      "postado": false
+      "postado": true
     },
     {
       "id": "msb5dvc6ulnp7",
