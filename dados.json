@@ -249,6 +249,29 @@
       "scheduled": "",
       "datePost": "",
       "postado": false
+    },
+    {
+      "id": "mt5p896blc4ew",
+      "createdAt": "2026-08-23T11:03:24.275Z",
+      "lastMoved": "2026-08-23T11:03:24.275Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-23T11:03:24.275Z"
+        }
+      ],
+      "title": "O que fazer quando seu filho está aprendendo a subir em escaldas no parquinho",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "board": "Tia Bia Responde",
+      "stage": "ideias",
+      "reference": "",
+      "tema": "",
+      "roteiro": "",
+      "obs": "",
+      "scheduled": "",
+      "datePost": "",
+      "postado": false
     }
   ],
   "metricPresets": [],
