@@ -226,6 +226,29 @@
       "scheduled": "",
       "datePost": "",
       "postado": false
+    },
+    {
+      "id": "mt5p756lavzgy",
+      "createdAt": "2026-08-23T11:02:32.445Z",
+      "lastMoved": "2026-08-23T11:02:32.445Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-23T11:02:32.445Z"
+        }
+      ],
+      "title": "O que você deveria fazer com seu filho, quando ele não quer sair da tela",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "board": "Descobri isso e mudou tudo",
+      "stage": "ideias",
+      "reference": "",
+      "tema": "Hook: ",
+      "roteiro": "",
+      "obs": "",
+      "scheduled": "",
+      "datePost": "",
+      "postado": false
     }
   ],
   "metricPresets": [],
