@@ -272,6 +272,29 @@
       "scheduled": "",
       "datePost": "",
       "postado": false
+    },
+    {
+      "id": "mt5t0usyujxuo",
+      "createdAt": "2026-08-23T12:49:37.522Z",
+      "lastMoved": "2026-08-23T12:49:37.522Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-23T12:49:37.522Z"
+        }
+      ],
+      "title": "A gente costumava levar as crianças para brincar",
+      "tipo": "Carrossel",
+      "platform": "Instagram",
+      "board": "Polêmica",
+      "stage": "ideias",
+      "reference": "https://www.instagram.com/p/DcTRkqtkWAf/?igsi=MnJqcmFsdGlhaHNr",
+      "tema": "",
+      "roteiro": "",
+      "obs": "",
+      "scheduled": "",
+      "datePost": "",
+      "postado": false
     }
   ],
   "metricPresets": [],
