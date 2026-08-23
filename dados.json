@@ -203,6 +203,29 @@
       "scheduled": "2026-08-04",
       "datePost": "2026-08-05",
       "postado": true
+    },
+    {
+      "id": "mt5oftjg4yn8f",
+      "createdAt": "2026-08-23T10:41:17.644Z",
+      "lastMoved": "2026-08-23T10:41:17.644Z",
+      "stageHistory": [
+        {
+          "stage": "ideias",
+          "at": "2026-08-23T10:41:17.644Z"
+        }
+      ],
+      "title": "Coisas de sessão ?",
+      "tipo": "Reels",
+      "platform": "Instagram",
+      "board": "Polêmica",
+      "stage": "ideias",
+      "reference": "https://www.instagram.com/reel/Dbi0q6Mxk0o/?igsi=YTh6cDI3NzRhZnFy",
+      "tema": "Enquanto eu faço meu skin care",
+      "roteiro": "Hook: Eu não me importo quando a família faz isso na minha sessão \n\nDesenvolver o tema\n\n",
+      "obs": "",
+      "scheduled": "",
+      "datePost": "",
+      "postado": false
     }
   ],
   "metricPresets": [],
